@@ -16,7 +16,7 @@ npm i pm2 -g
 
 Example: HYPE coin
 
-```JSON
+```
 {
     "constantRateUsd" : 0.3763, //Constant rate for test purpose
     "useProxy" : false,  //Use constant or use proxy
