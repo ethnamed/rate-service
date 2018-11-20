@@ -1,0 +1,8 @@
+{
+    "constantRateUsd" : 0.3763,
+    "useProxy" : false,
+    "proxyAddress" : "",
+    "port": 2000,
+    "ip": "0.0.0.0",
+    "tokenSymbol": "SPRKL"
+}
