@@ -2,7 +2,7 @@
 
 ### Motivation
 
-In case when rate is not available that but it needs to define the rate url in the wallet
+In case when real rate is not available yet but it needs to define the rate url in the wallet
 
 
 
