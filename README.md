@@ -10,6 +10,7 @@ In case when real rate is not available yet but it needs to define the rate url 
 
 ```
 npm i pm2 -g
+npm i
 ```
 
 ### Config
