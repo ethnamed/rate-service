@@ -1,5 +1,6 @@
 require! {
     \express
+    \cors
     \superagent : { get }
     \./config.json : { use-proxy, proxy-address, constant-rate-usd, port, ip, token-symbol }
 }
@@ -16,6 +17,7 @@ handler =
     | _ => constant
 
 express!
+   .use(cors!)
    .get \/rate , handler
    .listen port, ip
 
